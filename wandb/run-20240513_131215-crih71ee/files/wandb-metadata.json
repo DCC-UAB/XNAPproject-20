@@ -1,0 +1,77 @@
+{
+    "os": "Linux-5.15.0-1063-azure-x86_64-with-glibc2.17",
+    "python": "3.8.16",
+    "heartbeatAt": "2024-05-13T13:12:15.701265",
+    "startedAt": "2024-05-13T13:12:15.214139",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/DCC-UAB/XNAPproject-20.git",
+        "commit": "7e2b62fd0723d0e48c99070521320f8b9167451c"
+    },
+    "email": null,
+    "root": "/home/xnmaster/Projecte/XNAPproject-20",
+    "host": "labDAGLBU",
+    "username": "xnmaster",
+    "executable": "/anaconda/envs/py38_default/bin/python",
+    "cpu_count": 6,
+    "cpu_count_logical": 6,
+    "cpu_freq": {
+        "current": 2593.991,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2593.991,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.991,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.991,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.991,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.991,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.991,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 145.1909637451172,
+            "used": 93.98907852172852
+        }
+    },
+    "gpu": "Tesla V100-PCIE-16GB",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "Tesla V100-PCIE-16GB",
+            "memory_total": 16945512448
+        }
+    ],
+    "memory": {
+        "total": 110.04522705078125
+    }
+}
